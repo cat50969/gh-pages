@@ -13,15 +13,15 @@
             "id": "https://cat50969.github.io/gh-pages/first-post.html",
             "url": "https://cat50969.github.io/gh-pages/first-post.html",
             "title": "First Post",
-            "summary": "I've decided to document my coding journey. This is my first non hosted site. We'll see how it goes",
-            "content_html": "I've decided to document my coding journey. This is my first non hosted site. We'll see how it goes",
+            "summary": "I've decided to document my coding journey. This is my first non hosted site. We'll see how it goes. I want to start with freecodecamp's html and go from there.",
+            "content_html": "I've decided to document my coding journey. This is my first non hosted site. We'll see how it goes. I want to start with freecodecamp's html and go from there.",
             "author": {
                 "name": "cat509"
             },
             "tags": [
             ],
             "date_published": "2020-03-22T15:25:35-07:00",
-            "date_modified": "2020-03-22T15:34:25-07:00"
+            "date_modified": "2020-03-22T15:41:13-07:00"
         }
     ]
 }
