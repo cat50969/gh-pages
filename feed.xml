@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>cat509&#x27;s coding journey</title>
+    <link href="https://cat50969.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://cat50969.github.io/gh-pages" />
+    <updated>2020-03-22T15:33:10-07:00</updated>
+    <author>
+        <name>cat509</name>
+    </author>
+    <id>https://cat50969.github.io/gh-pages</id>
+
+    <entry>
+        <title>First Post</title>
+        <author>
+            <name>cat509</name>
+        </author>
+        <link href="https://cat50969.github.io/gh-pages/first-post.html"/>
+        <id>https://cat50969.github.io/gh-pages/first-post.html</id>
+
+        <updated>2020-03-22T15:25:35-07:00</updated>
+            <summary>
+                <![CDATA[
+                    I've decided to document my coding journey. This is my first non hosted site. We'll see how it goes
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                I've decided to document my coding journey. This is my first non hosted site. We'll see how it goes
+            ]]>
+        </content>
+    </entry>
+</feed>
