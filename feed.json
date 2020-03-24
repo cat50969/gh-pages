@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "cat509&#x27;s coding journey",
+    "title": "cathy&#x27;s coding journey",
     "description": "",
     "home_page_url": "https://cat50969.github.io/gh-pages",
     "feed_url": "https://cat50969.github.io/gh-pages/feed.json",
@@ -9,19 +9,5 @@
         "name": "cat509"
     },
     "items": [
-        {
-            "id": "https://cat50969.github.io/gh-pages/first-post.html",
-            "url": "https://cat50969.github.io/gh-pages/first-post.html",
-            "title": "First Post",
-            "summary": "I've decided to document my coding journey. This is my first non hosted site. We'll see how it goes. I want to start with freecodecamp's html and go from there.",
-            "content_html": "I've decided to document my coding journey. This is my first non hosted site. We'll see how it goes. I want to start with freecodecamp's html and go from there.",
-            "author": {
-                "name": "cat509"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-03-22T15:25:35-07:00",
-            "date_modified": "2020-03-22T15:41:13-07:00"
-        }
     ]
 }
