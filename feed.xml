@@ -3,10 +3,31 @@
     <title>cathy&#x27;s coding journey</title>
     <link href="https://cat50969.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://cat50969.github.io/gh-pages" />
-    <updated>1969-12-31T17:00:00-07:00</updated>
+    <updated>2020-03-23T17:42:54-07:00</updated>
     <author>
         <name>cat509</name>
     </author>
     <id>https://cat50969.github.io/gh-pages</id>
 
+    <entry>
+        <title>First</title>
+        <author>
+            <name>cat509</name>
+        </author>
+        <link href="https://cat50969.github.io/gh-pages/first.html"/>
+        <id>https://cat50969.github.io/gh-pages/first.html</id>
+
+        <updated>2020-03-23T17:40:43-07:00</updated>
+            <summary>
+                <![CDATA[
+                    This is my first self hosted blog. I'm looking forward to it. I had a couple of bumps along the way while setting it up. But I was pretty quick. I am looking forward to working on the freecodecamp html lessons first. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is my first self hosted blog. I'm looking forward to it. I had a couple of bumps along the way while setting it up. But I was pretty quick.</p>
+<p>I am looking forward to working on the freecodecamp html lessons first. </p>
+            ]]>
+        </content>
+    </entry>
 </feed>

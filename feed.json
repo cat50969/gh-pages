@@ -5,9 +5,24 @@
     "home_page_url": "https://cat50969.github.io/gh-pages",
     "feed_url": "https://cat50969.github.io/gh-pages/feed.json",
     "user_comment": "",
+    "icon": "https://cat50969.github.io/gh-pages/media/website/avi2.jpg",
     "author": {
         "name": "cat509"
     },
     "items": [
+        {
+            "id": "https://cat50969.github.io/gh-pages/first.html",
+            "url": "https://cat50969.github.io/gh-pages/first.html",
+            "title": "First",
+            "summary": "This is my first self hosted blog. I'm looking forward to it. I had a couple of bumps along the way while setting it up. But I was pretty quick. I am looking forward to working on the freecodecamp html lessons first. ",
+            "content_html": "<p>This is my first self hosted blog. I'm looking forward to it. I had a couple of bumps along the way while setting it up. But I was pretty quick.</p>\n<p>I am looking forward to working on the freecodecamp html lessons first. </p>",
+            "author": {
+                "name": "cat509"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-03-23T17:40:43-07:00",
+            "date_modified": "2020-03-23T17:40:43-07:00"
+        }
     ]
 }
