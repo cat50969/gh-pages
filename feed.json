@@ -1,11 +1,10 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "cathy&#x27;s coding journey",
+    "title": "cat50969&#x27;s coding journey",
     "description": "",
     "home_page_url": "https://cat50969.github.io/gh-pages",
     "feed_url": "https://cat50969.github.io/gh-pages/feed.json",
     "user_comment": "",
-    "icon": "https://cat50969.github.io/gh-pages/media/website/avi2.jpg",
     "author": {
         "name": "cat509"
     },
